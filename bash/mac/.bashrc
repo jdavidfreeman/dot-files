@@ -48,6 +48,7 @@ git config --global http.https://codev.mitre.org.sslVerify false
 git config --global http.https://codev.mitre.org.proxy ${http_proxy}
 alias h=history
 alias pu=pushd
+alias macvim='open -a macvim '
 
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
